@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e672f7c2-defb-47bf-a414-d6063ddd07bc" name="Changes" comment="" />
+    <list default="true" id="e672f7c2-defb-47bf-a414-d6063ddd07bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Energies/Hydraulic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Energies/Hydraulic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Energies/Solar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Energies/Solar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Energies/Wave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Energies/Wave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Energies/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Energies/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RenewableEnergy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RenewableEnergy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Training.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Training.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Users/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Users/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Users/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Users/Client.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../GreenEnergy\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JulyGris29"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JulyGris29/GreenEnergy.git",
+    "accountId": "95a74391-7abf-4fb4-a162-dd0baced71f1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mMNZE9EIZeB74kH7ulaZ7pQSB9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,8 +57,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "OverrideImplement.combined": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,5 +75,38 @@
       <updated>1726882541819</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Training.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
