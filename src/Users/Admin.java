@@ -2,6 +2,7 @@ package Users;
 
 
 public class Admin extends User {
+
     public Admin(int id, String name, String address, String email, String password) {
         super(id, name, address, email, password);
     }
