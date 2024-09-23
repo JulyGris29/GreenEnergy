@@ -1,11 +1,17 @@
 package Users;
 
 public class Client extends User {
-    public Client(int id, String name, String address, String email, String password) {
-        super(id, name, address, email, password);
+
+    // Constructor
+    public Client(int id, String name, String city, String email, String password) {
+        super(id, name, city, email, password);
     }
 
     public void processPayment(float amount) {
-        System.out.println("Processing payment of: $" + amount);
+        System.out.println("Payment processed: " + amount);
+    }
+
+    public void selectEnergy(String energyType) {
+        System.out.println("Client selected energy: "+ energyType);
     }
 }
